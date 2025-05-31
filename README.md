@@ -1,67 +1,38 @@
-<br clear="both">
+<br clear="both"> <h1 align="left">👋 Olá, mundo! Bem-vindo(a) ao meu GitHub!</h1> <p align="left">Sou um entusiasta da tecnologia, apaixonado por desenvolvimento de software e movido por desafios! 🚀</p>
+👨‍🎓 Formação
+🎓 Técnico em Informática
+🎓 Graduado em Análise e Desenvolvimento de Sistemas (ADS)
 
-<h1 align="left">👋 Hello World!!</h1>
+"Aprender, praticar e evoluir: essa é minha missão como dev!" 💡
 
-###
+💻 Stack de Tecnologias
+Com foco especial em Java, venho desenvolvendo soluções completas, aplicando boas práticas e explorando cada vez mais o ecossistema da linguagem. Confira abaixo as tecnologias que domino:
 
-<br clear="both">
+<div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" /> </div>
+☕ Java (minha especialidade)
 
-<p align="left">Sou formado em Técnico em Informática e graduado em Análise e Desenvolvimento de Sistemas (ADS). Tenho paixão por desenvolvimento de software e estou sempre em busca de novos aprendizados e desafios.</p>
+🌱 Spring Framework
 
-###
+🌐 HTML & CSS
 
-<br clear="both">
+⚡ JavaScript
 
-<h2 align="left">💻 Tecnologias que domino</h2>
+🚀 Experiência com Projetos
+📚 Durante a faculdade e em projetos pessoais, tive a oportunidade de aplicar o que aprendi na prática! Criei aplicações web, simulações de sistemas e muito mais.
 
-###
+🔧 Esses projetos representam minha evolução e meu compromisso com a qualidade e aprendizado contínuo.
 
-<br clear="both">
+📂 Projetos em Destaque no GitHub
+Aqui você vai encontrar:
 
-<p align="left">Java (linguagem principal e área de especialização)<br><br>Spring Framework<br><br>HTML<br><br>CSS<br><br>JavaScript</p>
+✅ Projetos acadêmicos
+✅ Projetos pessoais
+✅ Códigos práticos de aprendizado
+✅ Testes com novas tecnologias
 
-###
+Fique à vontade para explorar, clonar, testar e colaborar! 🤝
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-</div>
+📬 Vamos nos conectar?
+Se quiser trocar ideias, colaborar ou apenas bater um papo tech, estou por aqui! 👇
 
-###
-
-<br clear="both">
-
-<h2 align="left">🚀 Experiência</h2>
-
-###
-
-<br clear="both">
-
-<p align="left">Ao longo da minha formação, desenvolvi diversos projetos tanto acadêmicos quanto pessoais, aplicando os conhecimentos adquiridos e buscando sempre evoluir como desenvolvedor.</p>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-</div>
-
-###
-
-<h2 align="left">📂 Projetos</h2>
-
-###
-
-<br clear="both">
-
-<p align="left">Aqui no GitHub você encontrará alguns dos meus projetos que refletem meu aprendizado, dedicação e interesse contínuo por tecnologia.</p>
-
-###
+<div align="left"> <a href="https://www.linkedin.com/in/seu-perfil" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" /> </a> <a href="mailto:seuemail@gmail.com" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" /> </a> <a href="https://www.instagram.com/seuusuario" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" /> </a> </div>
