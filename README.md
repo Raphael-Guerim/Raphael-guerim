@@ -35,4 +35,8 @@ Fique à vontade para explorar, clonar, testar e colaborar! 🤝
 📬 Vamos nos conectar?
 Se quiser trocar ideias, colaborar ou apenas bater um papo tech, estou por aqui! 👇
 
-<div align="left"> <a href="https://www.linkedin.com/in/seu-perfil" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" /> </a> <a href="mailto:seuemail@gmail.com" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" /> </a> <a href="https://www.instagram.com/seuusuario" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" /> </a> </div>
+<div align="left"> <a href="https://www.linkedin.com/in/raphaelguerim" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" /> </a>
+
+<a href="raphael.guerim.santos@gmail.com" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" /> </a>
+
+<a href="https://www.instagram.com/seuusuario(https://www.instagram.com/raphaelguerim)" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" /> </a> </div>
